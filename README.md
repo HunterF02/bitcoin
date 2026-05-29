@@ -1,5 +1,7 @@
 Bitcoin Core integration/staging tree
 =====================================
+Hunter is cool!
+
 
 https://bitcoincore.org
 
